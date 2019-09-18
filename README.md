@@ -11,7 +11,9 @@ Epics1 : Registration
 
 * Feature1.2 Login
 
-  * backlog1.2.1
+  * backlog1.2.1 Username
+  
+  * backlog1.2.2 Password
 
 * Feature1.3 Profile
 
