@@ -1,12 +1,12 @@
 Epics1 : Registration
 
-*Feature1.1 Register
+* Feature1.1 Register
 
-**backlog1.1.1
+** backlog1.1.1
 
-*Feature1.2 Login
+* Feature1.2 Login
 
-**backlog1.2.1
+** backlog1.2.1
 
 *Feature1.3 Profile
 
