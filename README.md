@@ -10,25 +10,25 @@ Epics1 : Registration
 
 *Feature1.3 Profile
 
- *backlog1.3.1
+ * backlog1.3.1
 
 Epics2 : Market
 
-*Feature2.1 Search
+* Feature2.1 Search
 
- *backlog2.1.1
+  * backlog2.1.1
 
-*Feature2.2 Shop
+* Feature2.2 Shop
 
- *backlog2.2.1
+  * backlog2.2.1
 
-*Feature2.3 Review
+* Feature2.3 Review
 
- *backlog2.3.1
+ * backlog2.3.1
 
-*Feature2.3 Rank
+* Feature2.3 Rank
 
- *backlog2.3.1
+ * backlog2.3.1
 
 Members
 Metaporn Thongthae
