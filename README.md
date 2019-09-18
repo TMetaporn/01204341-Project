@@ -2,7 +2,12 @@ Epics1 : Registration
 
 * Feature1.1 Register
 
-  * backlog1.1.1
+  * backlog1.1.1 User information
+  
+  * backlog1.1.2 Username
+  
+  * backlog1.1.3 Password
+  * backlog1.1.4 Email
 
 * Feature1.2 Login
 
