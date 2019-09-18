@@ -56,10 +56,10 @@ Epics4 : Contact Us
 
 Members
 
-Metaporn Thongthae
+- Metaporn Thongthae
 
-Nichakarn Rangseewong
+- Nichakarn Rangseewong
 
-Phimpirrudth Wheesetchaiya
+- Phimpirrudth Wheesetchaiya
 
-Kamonchanok Siriphotjanathip
+- Kamonchanok Siriphotjanathip
