@@ -135,35 +135,35 @@ Epics5 Profile
  
   * backlog 5.1.2 Information from Registration
  
-* Feature.5.3 My Shop
+* Feature.5.2 My Shop
 
-  * backlog 5.3.1 Product's name
+  * backlog 5.2.1 Product's name
   
-  * backlog 5.3.2 Product's detail
+  * backlog 5.2.2 Product's detail
   
-  * backlog 5.3.3 Category
+  * backlog 5.2.3 Category
    
-  * backlog 5.3.4 Price
+  * backlog 5.2.4 Price
   
-  * backlog 5.3.5 Hashtag
+  * backlog 5.2.5 Hashtag
  
-  * backlog 5.3.6 Find Hashtag
+  * backlog 5.2.6 Find Hashtag
   
-  * backlog 5.3.7 Add Product
+  * backlog 5.2.7 Add Product
   
-  * backlog 5.3.8 Edit/Delete Product
+  * backlog 5.2.8 Edit/Delete Product
  
-* Feature.5.4 Check Order
+* Feature.5.3 Check Order
 
-   * backlog 5.4.1 Buyer username
+   * backlog 5.3.1 Buyer username
 
-   * backlog 5.4.2 Product's name
+   * backlog 5.3.2 Product's name
    
-   * backlog 5.4.3 Buyer Address
+   * backlog 5.3.3 Buyer Address
     
-   * backlog 5.4.4 Status
+   * backlog 5.3.4 Status
      
-   * backlog 5.4.5 Tracking Number
+   * backlog 5.3.5 Tracking Number
   
 Epics 6 Review
   
@@ -201,6 +201,40 @@ Epics 6 Review
    
    * backlog 6.4.4 Show Comment
    
+   
+* Technical Challenge
+  * 1. Database link
+  * 2. Search Engine
+* Risk Assessment
+  * 1.Can't write a web program. - solve: Learn it. 
+  * 2.Limited Time (Too many backlogs to done)
+  
+* Project Plan
+ * 1. Registration
+   * 1. Register
+   * 2. Login
+ * 2. Market
+   * 1.Home
+   * 2. Search Product Result
+   * 3. Product Profile
+ * 3.Order
+   * 1. Cart
+   * 2. Payment
+   * 3. Tracking
+ * 4.Contact Us
+   * 1. Problem and Ads
+   * 2. Report
+ * 5. Profile
+   * 1. Personal
+   * 2. Myshop
+   * 3. Check Order
+ * 6. Review
+   * 1 Search
+   * 2. Add Review
+   * 3. Recommended Review
+   * 4.Review
+ 
+ 
    
   
 Members
