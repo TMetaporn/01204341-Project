@@ -27,10 +27,9 @@ Epics1 : Registration
   * backlog1.2.3 Password
   * backlog1.2.4 enter Password
   * backlog1.2.5 login button
-  * backlog1.2.6 Password
-  * backlog1.2.7 remember me
-  * backlog1.2.8 creat new account
-  * backlog1.2.9 forgot Password
+  * backlog1.2.6 remember me
+  * backlog1.2.7 creat new account
+  * backlog1.2.8 forgot Password
   
 
 * Feature1.3 Profile
