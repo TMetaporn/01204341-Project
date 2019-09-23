@@ -239,7 +239,7 @@ Epics 6 Review
    * 3. Recommended Review 7 days
    * 4.Review 20 days
  
- Total 168 days * work 5 days per week, 8 hours per day, 4 people salary 1000 baht per day
+ Total 168 days, work 5 days per week, 8 hours per day, 4 people salary 1000 baht per day
    
   
 Members
