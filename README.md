@@ -240,6 +240,8 @@ Epics 6 Review
    * 4.Review 20 days
  
  Total 168 days, work 5 days per week, 8 hours per day, 4 people salary 1000 baht per day
+ 
+ Cost estimation = 168,000 baht
    
   
 Members
