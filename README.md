@@ -189,7 +189,7 @@ Epics 6 Review
 
 * Feature.6.3 Recommended Review
 
-   * backlog 6.3.1 Latest Revieww
+   * backlog 6.3.1 Latest Review
  
 * Feature.6.4 Review
 
