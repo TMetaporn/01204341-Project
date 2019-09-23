@@ -210,31 +210,36 @@ Epics 6 Review
   * 2.Limited Time (Too many backlogs to done)
   
 * Project Plan
- * 1. Registration
-   * 1. Register
-   * 2. Login
- * 2. Market
-   * 1.Home
-   * 2. Search Product Result
-   * 3. Product Profile
- * 3.Order
-   * 1. Cart
-   * 2. Payment
-   * 3. Tracking
- * 4.Contact Us
-   * 1. Problem and Ads
-   * 2. Report
- * 5. Profile
-   * 1. Personal
-   * 2. Myshop
-   * 3. Check Order
- * 6. Review
-   * 1 Search
-   * 2. Add Review
-   * 3. Recommended Review
-   * 4.Review
+ * 1. Registration 10 days
+   * 1. Register 5 days
+   * 2. Login 5 days
+   
+ * 2. Market 35 days
+   * 1.Home 7 days
+   * 2. Search Product Result 14 days
+   * 3. Product Profile 14 days
  
+ * 3.Order 34 days
+   * 1. Cart 20 days
+   * 2. Payment 7 days
+   * 3. Tracking 7days
  
+ * 4.Contact Us 17 days
+   * 1. Problem and Ads 10 days 
+   * 2. Report 7 days
+ 
+ * 5. Profile 21 days
+   * 1. Personal 7 days
+   * 2. Myshop 7 days
+   * 3. Check Order 7 days
+ 
+ * 6. Review 51 days
+   * 1 Search 14 days
+   * 2. Add Review 10 days
+   * 3. Recommended Review 7 days
+   * 4.Review 20 days
+ 
+ Total 168 days * work 5 days per week, 8 hours per day, 4 people salary 1000 baht per day
    
   
 Members
