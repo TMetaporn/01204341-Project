@@ -62,13 +62,7 @@ Epics2 : Market
    
    * backlog2.3.4 Product's Category
    
-   * backlog2.3.5 Hashtag
-   
-   * backlog2.3.6 Shopkeeper username
-   
-   * backlog2.3.7 Add to Cart
-   
-   * backlog2.3.8 Report
+   * backlog2.3.5 Add to Cart
   
 Epics3 : Order
 
@@ -76,17 +70,15 @@ Epics3 : Order
 
   * backlog3.1.1 Product's Name 
   
-  * backlog3.1.2 Shop's username
+  * backlog3.1.2 Amount
   
-  * backlog3.1.3 Amount
+  * backlog3.1.3 Amount * Price 
   
-  * backlog3.1.4 Amount * Price 
+  * backlog3.1.4 Total
   
-  * backlog3.1.5 Total
+  * backlog3.1.5 Continue Shopping
   
-  * backlog3.1.6 Continue Shopping
-  
-  * backlog3.1.7 Pay
+  * backlog3.1.6 Pay
 
 * Feature3.2 Payment
 
@@ -104,9 +96,7 @@ Epics3 : Order
   
   * backlog 3.3.1 Product Detail
    
-  * backlog 3.3.2 shopkeeper username
-    
-  * backlog 3.3.3 Tracking Number
+  * backlog 3.3.2 Tracking Number
    
   
 Epics4 : Contact Us
@@ -121,11 +111,9 @@ Epics4 : Contact Us
  
 * Feature4.2 Report
 
-  * backlog4.2.1 Pull Shop username
+  * backlog4.2.1 Pull Buyer username
   
-  * backlog4.2.2 Pull Buyer username
-  
-  * backlog4.2.3 Why Report?
+  * backlog4.2.2 Why Report?
   
 Epics5 Profile
 
@@ -177,16 +165,14 @@ Epics 6 Review
 
    * backlog 6.2.1 Product's Picture
 
-   * backlog 6.2.2 new Hashtag
+   * backlog 6.2.2 Product's Name
    
-   * backlog 6.2.3 Product's Name
+   * backlog 6.2.3 Product Review
    
-   * backlog 6.2.4 Product Review
+   * backlog 6.2.4 Submit
    
-   * backlog 6.2.5 Submit
+   * backlog 6.2.5 Pull Reviewer username 
    
-   * backlog 6.2.6 Pull Reviewer username 
-
 * Feature.6.3 Recommended Review
 
    * backlog 6.3.1 Latest Review
