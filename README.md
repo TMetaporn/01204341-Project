@@ -196,12 +196,12 @@ Epics 6 Review
   * 2.Limited Time (Too many backlogs to done)
   
 * Project Plan
- * 1. Registration 10 days
-   * 1. Register 5 days
-   * 2. Login 5 days
+   * 1. Registration 10 days
+   * 2. Register 5 days
+   * 3. Login 5 days
    
  * 2. Market 35 days
-   * 1.Home 7 days
+   * 1. Home 7 days
    * 2. Search Product Result 14 days
    * 3. Product Profile 14 days
  
@@ -220,10 +220,10 @@ Epics 6 Review
    * 3. Check Order 7 days
  
  * 6. Review 51 days
-   * 1 Search 14 days
+   * 1. Search 14 days
    * 2. Add Review 10 days
    * 3. Recommended Review 7 days
-   * 4.Review 20 days
+   * 4. Review 20 days
  
  Total 168 days, work 5 days per week, 8 hours per day, 4 people salary 1000 baht per day
  
